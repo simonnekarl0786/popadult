@@ -1,4 +1,4 @@
 <?php
-header("Location: https://grandfurnitures.us");
+header("Location: https://vcahospitals.com/know-your-pet/dog-care");
 die();
 ?>
